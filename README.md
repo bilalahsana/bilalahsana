@@ -3,7 +3,7 @@ bilalahsana/bilalahsana is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h3 align="center">
-Hi there, I'm <a href="https://www.bilalahsana.netlify.app/" target="_blank" rel="noreferrer">bilal ahsana</a> 👋
+Hi there, I'm <a href="https://bilalahsana.netlify.app/" target="_blank" rel="noreferrer">bilal ahsana</a> 👋
 </h3>
 
 <h2 align="center">
