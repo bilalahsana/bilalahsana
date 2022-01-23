@@ -31,6 +31,7 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 
 <h3>databases</h3>
 
+![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=MySql&color=orange)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=green)
