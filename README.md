@@ -60,5 +60,6 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/bilalahsana/">LinkedIn</a>
+</br>
 <a href="mailto:bilalahsana@gmail.com">Gmail</a>
 </br>
