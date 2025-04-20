@@ -64,4 +64,4 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 </br>
 <a href="mailto:bilalahsana@gmail.com">Gmail</a>
 </br>
-Checkout my website <a href="https://bilal.icu>Here</a>
+<a href="https://bilal.icu">Portfolio</a>
