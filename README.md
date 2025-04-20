@@ -3,7 +3,7 @@ bilalahsana/bilalahsana is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h3 align="center">
-Hi there, I'm <a href="https://bilalahsana.netlify.app/" target="_blank" rel="noreferrer">bilal ahsana</a> 👋
+Hi there, I'm <a href="https://bilal.icu/" target="_blank" rel="noreferrer">bilal ahsana</a> 👋
 </h3>
 
 <h2 align="center">
@@ -48,15 +48,15 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 
 ## 🔭 I'm currently working on
 
-- My Portfolio
-- Old project with java
 - Mobile application
+- Tutor platform
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- VueJs
+- machine learning and explainable AI
+- extended reality
+- Scricpt modeling blender
+  
 
 ### 🤝 Connect with me:
 
@@ -64,3 +64,4 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 </br>
 <a href="mailto:bilalahsana@gmail.com">Gmail</a>
 </br>
+Checkout my website <a href="https://bilal.icu>Here</a>
